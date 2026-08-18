@@ -1,0 +1,14 @@
+C:\Users\Willi\Downloads\ResurrectAnimals\Assemblies\ResurrectAnimalsPatch.dll
+C:\Users\Willi\Downloads\ResurrectAnimals\Assemblies\ResurrectAnimalsPatch.pdb
+C:\Users\Willi\Downloads\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.csproj.AssemblyReference.cache
+C:\Users\Willi\Downloads\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\Downloads\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.csproj.CoreCompileInputs.cache
+C:\Users\Willi\Downloads\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.dll
+C:\Users\Willi\Downloads\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Assemblies\ResurrectAnimalsPatch.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Assemblies\ResurrectAnimalsPatch.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ResurrectAnimals\Source\obj\Release\ResurrectAnimalsPatch.pdb

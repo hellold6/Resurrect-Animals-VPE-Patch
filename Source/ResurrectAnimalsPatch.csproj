@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>ResurrectAnimalsPatch</AssemblyName>
+    <RootNamespace>ResurrectAnimalsPatch</RootNamespace>
+    <OutputPath>..\Assemblies\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <!-- Adjust this to wherever RimWorld is actually installed -->
+    <RimWorldDir>C:\Program Files (x86)\Steam\steamapps\common\RimWorld</RimWorldDir>
+    <WorkshopDir>C:\Program Files (x86)\Steam\steamapps\workshop\content\294100</WorkshopDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Core RimWorld assemblies -->
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(RimWorldDir)\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(RimWorldDir)\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <!-- Harmony -->
+    <Reference Include="0Harmony">
+      <HintPath>$(WorkshopDir)\2009463077\Current\Assemblies\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <!-- Vanilla Expanded Framework: adjust the workshop ID folder if it differs -->
+    <Reference Include="VEF">
+      <HintPath>$(WorkshopDir)\2023507013\1.6\Assemblies\VEF.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+
+    <!-- Vanilla Psycasts Expanded -->
+    <Reference Include="VanillaPsycastsExpanded">
+      <HintPath>$(WorkshopDir)\2842502659\1.6\Assemblies\VanillaPsycastsExpanded.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>
